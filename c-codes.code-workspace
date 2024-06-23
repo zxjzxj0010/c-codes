@@ -1,9 +1,11 @@
 {
 	"folders": [
 		{
-			"path": "c-codes"
+			"name": "c-codes",
+			"path": "."
 		},
 		{
+			"name": "txt",
 			"path": "../txt"
 		}
 	],
