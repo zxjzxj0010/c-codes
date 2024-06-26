@@ -8,5 +8,5 @@ class Solution
         void print();
     private:
         int a = 10;
-};      
+};
 #endif
