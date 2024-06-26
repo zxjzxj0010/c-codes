@@ -3,10 +3,6 @@
 		{
 			"name": "c-codes",
 			"path": "."
-		},
-		{
-			"name": "txt",
-			"path": "../txt"
 		}
 	],
 	"settings": {}
